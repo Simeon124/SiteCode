@@ -1,0 +1,16 @@
+body
+{
+    background-color: burlywood;
+}
+h1
+{
+    font-size: 60px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+div
+{
+    font-size: 15px;
+    position: relative;
+    top: 775px;
+}
