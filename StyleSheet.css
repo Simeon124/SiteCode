@@ -1,12 +1,13 @@
 body
 {
-    background-color: burlywood;
+    background-color: black;
 }
 h1
 {
     font-size: 60px;
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
 }
 div
 {
@@ -14,6 +15,7 @@ div
     font-size: 15px;
     position: relative;
     top: 300px;
+    color:white;
 }
 .gif1
 {
