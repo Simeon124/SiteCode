@@ -55,7 +55,43 @@ h1 {
 
 
 body {
+    
+}
+
+main
+{
     max-width: 80rem;
     margin: 0 auto;
     min-width: 40rem;
+}
+
+footer
+{
+    background-color: black;
+    text-align: center;
+    color:white;
+    display: flex;
+    font-size: 1rem;
+    order:3;
+    justify-content: space-evenly;
+
+}
+li  
+{
+    list-style-type: none;
+}
+
+.navigation
+{
+    display: flex;
+    justify-content:start;
+    background-color: gray;
+    color:black;
+    
+
+}
+ul
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
