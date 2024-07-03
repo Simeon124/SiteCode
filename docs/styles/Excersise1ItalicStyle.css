@@ -55,7 +55,8 @@ h1 {
 
 
 body {
-    
+    background-image: url("../Images/sportBackg.jpg");
+    background-size: 150rem;
 }
 
 main
@@ -85,7 +86,7 @@ li
 {
     display: flex;
     justify-content:start;
-    background-color: gray;
+    background-color: rgb(32, 32, 92);
     color:black;
     
 
