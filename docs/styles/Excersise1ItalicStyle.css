@@ -75,6 +75,8 @@ footer
     font-size: 1rem;
     order:3;
     justify-content: space-evenly;
+    position: relative;
+    top: 15rem;
 
 }
 li  
